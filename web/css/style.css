@@ -1,0 +1,62 @@
+*{
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+	font-family: sans-serif;	
+}
+
+#bloque1{
+
+	color: white;
+	text-align: center;
+	background: url(../images/banner.jpg);
+	background-size: cover;
+	
+
+}
+#bloque1 nav{
+	/*position: fixed; se queda y baja */
+	color: white;
+	text-align: center;
+	
+	background-color: rgba(0,0,0,0.5);
+	padding: 1.5em;
+}
+#bloque1 header{
+	padding: 8.5em;
+	display: inline-block;
+}
+#bloque1 header img{
+	height: 200px;
+
+}
+
+#bloque1 header section{
+	
+	font-size: 30;
+}
+
+#bloque1 section h1{
+	
+	
+	padding: 0.3em;
+	border-radius: 0.2em;
+
+}
+
+#bloque2{
+	text-align: center;
+	color: white;
+	background-color: rgb(20,40,60);
+	padding: 5em;
+}
+
+
+
+footer{
+	color: white;
+	text-align: center;
+	background-color: gray;
+	padding: 5em;
+}
+
