@@ -29,16 +29,7 @@
                         <div class="panel-heading">
                           <h2 class="panel-title">Buscar Libro</h2>
                         </div>
-                        <div class="panel-body">
-                            <form id="buscarLibroForm" name="buscarLibroForm" class="form-access-carrear-online" method="post" action="libroPostFecha">  
-                                
-                                Fecha: 
-                                <br><input type="date" class="form-control" style="width: 30%" name="fecha" placeholder="AAAA/MM/DD"><br>
-                                <input type="submit" class="btn btn-danger btn-access" value="Buscar"/>
-                               
-                            </form>
-                            
-                        </div>
+                        
                     </div>
                 </div><!--Fin primer div--> 
                 <div id="librosAlumno" style="display: ">
